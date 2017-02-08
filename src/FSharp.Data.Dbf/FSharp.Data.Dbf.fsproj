@@ -52,7 +52,7 @@
     <Compile Include="DebugProvidedTypes.fs">
       <Paket>True</Paket>
     </Compile>
-    <Compile Include="DbfConnection.fs" />
+    <Compile Include="DbfTypeProvider.fs" />
   </ItemGroup>
   <PropertyGroup>
     <MinimumVisualStudioVersion Condition="'$(MinimumVisualStudioVersion)' == ''">14</MinimumVisualStudioVersion>
